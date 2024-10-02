@@ -3,7 +3,7 @@
 This project implements a data pipeline for tracking flight data using the OpenSky API, Apache Spark, and Databricks.
 
 ## Project Structure
-
+```
 flight_data_pipeline/
 ├── notebooks/
 │ ├── 00_setup.py
@@ -24,7 +24,7 @@ flight_data_pipeline/
 │ └── config.yaml
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 
 1. Clone this repository to your local machine or Databricks workspace.
