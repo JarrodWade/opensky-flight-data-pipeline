@@ -1,4 +1,4 @@
-# Flight Data Pipeline
+# Flight Data Pipeline (IN PROGRESS...)
 
 This project implements a data pipeline for tracking flight data using the OpenSky API, Apache Airflow, Kafka, and AWS S3.
 
